@@ -8,5 +8,3 @@ elif number == 0:
 else:
     print(number, 'is negative')
 
-
-
