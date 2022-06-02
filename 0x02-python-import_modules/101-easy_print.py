@@ -1,4 +1,2 @@
 #!/usr/bin/python3
-
-
-import hprint
+import easy_print_101
