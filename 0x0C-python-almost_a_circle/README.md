@@ -1,4 +1,4 @@
-# ALX-Project: Python almost a circle
+# Python almost a circle
 
 ## Python Unit Tests
 * Allowed editors: vi, vim, emacs
